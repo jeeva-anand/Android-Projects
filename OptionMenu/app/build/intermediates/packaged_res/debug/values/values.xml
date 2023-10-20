@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFFFFF</color>
+    <color name="foreground">#000000</color>
+    <string name="Netflix">Netflix</string>
+    <style name="Base.Theme.OptionMenu" parent="Theme.Material3.DayNight">
+        
+         <item name="colorPrimary">#3A3B3C</item>
+
+         <item name="colorOnBackground">#ffffff</item>
+    </style>
+    <style name="Theme.OptionMenu" parent="Base.Theme.OptionMenu"/>
+</resources>

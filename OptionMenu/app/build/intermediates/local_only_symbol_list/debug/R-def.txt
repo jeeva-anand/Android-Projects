@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color foreground
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable netflixlog
+drawable ratingimg
+drawable share
+drawable user_logo
+id checkBox3
+id editTextText
+id editTextText2
+id imageView2
+id item_profile
+id logout
+id movie
+id net_sign
+id saved_movie
+id textView
+id user_share
+layout activity_main
+menu menu_items
+mipmap ic_launcher
+mipmap ic_launcher_round
+string Netflix
+style Base.Theme.OptionMenu
+style Theme.OptionMenu
+xml backup_rules
+xml data_extraction_rules
