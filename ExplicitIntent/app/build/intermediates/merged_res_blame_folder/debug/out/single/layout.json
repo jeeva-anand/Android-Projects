@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-mergeDebugResources-43:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-mergeDebugResources-43:\\layout\\activity_google_map_current_location.xml",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\layout\\activity_google_map_current_location.xml"
+    },
+    {
+        "merged": "com.example.explicitintent.app-mergeDebugResources-43:/layout/activity_google_map_current_location.xml",
+        "source": "com.example.explicitintent.app-main-46:/layout/activity_google_map_current_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-mergeDebugResources-43:\\layout\\activity_todo_list_app.xml",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\layout\\activity_todo_list_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-mergeDebugResources-43:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\layout\\activity_maps.xml"
+    }
+]

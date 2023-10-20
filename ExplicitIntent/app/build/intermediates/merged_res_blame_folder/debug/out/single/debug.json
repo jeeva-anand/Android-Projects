@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\navigation_nav_graph2.xml.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\navigation\\nav_graph2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\drawable_bg.jpg.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\font_tienne.xml.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\font\\tienne.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\layout_activity_google_map_current_location.xml.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\layout\\activity_google_map_current_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\font_arsenal.xml.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\font\\arsenal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\layout_activity_todo_list_app.xml.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\layout\\activity_todo_list_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\font_archivo_black.xml.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\font\\archivo_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-merged_res-44:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Anand\\.gradle\\daemon\\8.0\\com.example.explicitintent.app-main-46:\\xml\\data_extraction_rules.xml"
+    }
+]
