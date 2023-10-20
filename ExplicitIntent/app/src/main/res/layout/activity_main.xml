@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="141dp"
+        android:layout_height="58dp"
+        android:text="submit"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.412"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.742" />
+
+    <RadioGroup
+        android:id="@+id/radGrp"
+        android:layout_width="327dp"
+        android:layout_height="160dp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.809"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.518">
+
+        <RadioButton
+            android:id="@+id/netflix"
+            android:layout_width="199dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="monospace"
+            android:text="Neflix"
+            android:onClick="onRadioButtonClicked"
+            android:textSize="20sp" />
+
+        <RadioButton
+            android:id="@+id/what_s_app"
+            android:layout_width="197dp"
+            android:layout_height="61dp"
+            android:fontFamily="monospace"
+            android:text="what's app"
+            android:onClick="onRadioButtonClicked"
+            android:textSize="20sp" />
+
+        <RadioButton
+            android:id="@+id/youtue"
+            android:layout_width="199dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="monospace"
+            android:text="youtube"
+            android:onClick="onRadioButtonClicked"
+            android:textSize="20sp" />
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textView"
+        style="@style/Widget.Material3.SearchView.Prefix"
+        android:layout_width="312dp"
+        android:layout_height="52dp"
+        android:fontFamily="serif"
+        android:text="Free Service for 1 month"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.583"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.329" />
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="230dp"
+        android:layout_height="40dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Premium Product "
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.585"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.225" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
