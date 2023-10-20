@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/item_profile"
+        android:icon="@drawable/user_logo"
+        android:title="Profile"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/user_share"
+        android:icon="@drawable/share"
+        android:title="Profile"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/movie"
+        android:icon="@drawable/user_logo"
+        android:title="All Movie"
+        app:showAsAction="never"/>
+    <item android:id="@+id/saved_movie"
+        android:icon="@drawable/user_logo"
+        android:title="Saved Movies"
+        app:showAsAction="never"/>
+    <item android:id="@+id/logout"
+        android:icon="@drawable/user_logo"
+        android:title="Log out"
+        app:showAsAction="never"/>
+</menu>
